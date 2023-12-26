@@ -19,6 +19,7 @@ const COLORS = [
 
 function shuffle(array) {
   let counter = array.length;
+  let counter2= array
 
   // While there are elements in the array
   while (counter > 0) {
